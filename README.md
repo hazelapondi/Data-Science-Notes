@@ -20,3 +20,11 @@ Similarly the *tail* function tail(15) would return the last 15 items.
 [1,2,3]*  [6]
 		  [7]
 		  [8]
+
+* A data structure is a way of organizing data in a computer so it can be used efficiently.
+
+pandas introduces two new data structures to Python - Series and DataFrame, both of which are built on top of NumPy
+
+* A Series is a one-dimensional object similar to an array, list, or column in a table. 
+* A DataFrame is a tabular data structure comprised of rows and columns like in a spreadsheet. You can think of a DataFrame as a group of Series objects that share column names.
+* Reading a CSV is as simple as calling the read_csv function.
