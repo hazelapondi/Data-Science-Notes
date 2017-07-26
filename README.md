@@ -14,7 +14,9 @@ This is the beginning of a folder containing varied random stuff to do with data
 
 **Extras**
 
-* *read_csv* is a function inside pandas library. 
-* *train.csv* is a file present in on the anaconda directory. 
 * pandas uses *head* function to give us an overview about the top part of the data frame... By default head() returns the first 5 rows of the data frame.
 Similarly the *tail* function tail(15) would return the last 15 items.
+* numpy.dot : is equivalent to matrix multiplication for 2-D arrays, to inner product of vectors for 1-D arrays(without complex conjugation). i.e
+[1,2,3]*  [6]
+		  [7]
+		  [8]
