@@ -1,0 +1,15 @@
+https://docs.python.org/3/tutorial/modules.html
+
+https://docs.python.org/3.5/library/copy.html
+
+https://docs.python.org/3.5/tutorial/datastructures.html
+
+Data Visualizations: http://matplotlib.org/1.5.1/gallery.html
+
+http://ggplot2.org/
+
+http://ggplot.yhathq.com/
+
+https://docs.python.org/3.5/tutorial/controlflow.html
+
+http://pandas.pydata.org/
